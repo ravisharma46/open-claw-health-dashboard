@@ -1,0 +1,11 @@
+{
+  "name": "open-claw-health-dashboard",
+  "version": "0.1.0",
+  "description": "Health dashboard for Open Claw Health logs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
